@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divya527
 - 👀 I’m interested in Web Development and Designing.
-- 🌱 I’m currently learning new skills and exploring knowledge in software engineering .
+- 🌱 I’m currently learning new skills and exploring in software engineering .
 - 💞️ I’m looking to collaborate on open source projects on github platform.
 - 📫 How to reach me ==> My Linkedln profile- https://www.linkedin.com/in/divya-vishwakarma-2a7249187
 
